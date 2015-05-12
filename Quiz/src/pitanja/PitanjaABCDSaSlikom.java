@@ -2,6 +2,9 @@ package pitanja;
 
 import java.awt.Image;
 
+import javax.swing.JFileChooser;
+import javax.swing.filechooser.FileNameExtensionFilter;
+
 public class PitanjaABCDSaSlikom {
 	
 	private PitanjaABCD pitanje;
